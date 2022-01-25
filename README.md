@@ -18,7 +18,7 @@
 
 - 🌱 I recently finished individual project (JavaScript/Reactjs/Nodejs/Deployed on Heroku): _**Check**_ :- MealSharingApp [Preview](https://meal-sharing-app-hyf.herokuapp.com/) | [GitHub](https://github.com/BikramRawat/meal-sharing) and also _**Check Todo App**_ [GitHub](https://github.com/BikramRawat/todo-list)
 
-- 🌱 Some other web apps I have built: [GitHub Users Search App](https://github.com/BikramRawat/hyf-homework/tree/master/react/week4/github-users-search-app/src) , [Giphy Search App](https://github.com/BikramRawat/hyf-homework/tree/master/javascript/javascript3/week1/giphySearch), [Weather App](https://github.com/BikramRawat/hyf-homework/tree/master/javascript/javascript3/week1/weatherApp)
+- 🌱 Some other web apps I have built: **GitGub Links:** [GitHub Users Search App](https://github.com/BikramRawat/hyf-homework/tree/master/react/week4/github-users-search-app/src) , [Giphy Search App](https://github.com/BikramRawat/hyf-homework/tree/master/javascript/javascript3/week1/giphySearch), [Weather App](https://github.com/BikramRawat/hyf-homework/tree/master/javascript/javascript3/week1/weatherApp)
 
 <hr />
 
