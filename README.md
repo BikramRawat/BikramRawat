@@ -29,9 +29,9 @@
 <hr />
 
 ### Skills
-###### HTML5 | CSS3/SCSS | JavaScript/ES6+ | React.js | Express.js | Node.js | MySQL | git | GitHub | TypeScript 
+###### HTML5 | CSS3/SCSS | JavaScript/ES6+ | React.js | Next.js | Express.js | Node.js | MySQL | git | GitHub | TypeScript 
 
-###### Jest | knex.js | Basic Linux CLI | HerokuStorybook | Swagger API Docx | RESTful API's
+###### Jest | knex.js | Basic Linux CLI | HerokuStorybook | Swagger API Docx | RESTful API's | Strapi Headless CMS | PostgreSQL | Azure Cloud
 
 <hr />
 
