@@ -38,6 +38,10 @@
 ### Languages
 **ENGLISH :** _Full Professional Proficiency_ | **Danish :** _Professional Working Proficiency_
 
+### Certifications
+**AZ-900 :** _Azure Fundamentals Certifications_ | **Umbraco :** _Umbraco Certified Professional_
+
+
 
 
 
