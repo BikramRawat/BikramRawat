@@ -8,7 +8,7 @@
 
 ### I'm constantly improving my skills to become an experienced FullStack Developer (MERN Stack)
 
-- 🔭 I’m currently working as a ***Fullstack Developer*** at **Presencing Institute** Check the [URL](https://www.presencing.org/)
+- 🔭 I’m currently working as a ***Web Developer*** at **Presencing Institute** Check the [URL](https://www.presencing.org/)
 - 🔭 Worked as a Frontend Developer Intern at **The Considerate Consumer** Check the [URL](https://www.considerate-consumer.com/) and at **Jobeffekt.dk** Check the [URL](https://www.jobeffekt.dk/)
 
 - 🌱 I’m currently learning **Azure Administration & GitHub Actions**
