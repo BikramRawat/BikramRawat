@@ -8,7 +8,7 @@
 
 ### I'm constantly improving my skills to become an experienced FullStack Developer (MERN Stack)
 
-- 🔭 I’m currently working as a *** Frontend Developer*** at **NewBanking Identity** Check the [URL](https://www.newbanking.com/), especially on Vuejs framework
+- 🔭 I’m currently working as a ***Frontend Developer*** at **NewBanking Identity** Check the [URL](https://www.newbanking.com/), especially on Vuejs framework
 - 🔭 Worked as a ***Web Developer*** at **Presencing Institute** Check the [URL](https://www.presencing.org/), especially on Reactjs/Nextjs
 - 🔭 Worked as a Frontend Developer Intern at **The Considerate Consumer** Check the [URL](https://www.considerate-consumer.com/) and at **Jobeffekt.dk** Check the [URL](https://www.jobeffekt.dk/)
 
